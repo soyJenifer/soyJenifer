@@ -17,6 +17,6 @@
 
 ---
 ## 💬ᴄᴏɴᴛáᴄᴛᴀᴛᴇ ᴄᴏɴᴍɪɢᴏ ;)
-<a href='mailto:jenifermoyano2006@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/GMail-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/-100000?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836&color=D14836'/></a> <a href="jenifermoyano2006@gmail.com">jenifermoyano2006@gmail.com</a>
 
 ---
