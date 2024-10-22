@@ -2,12 +2,12 @@
 
 ---
 ## ♡ ꜱᴏʙʀᴇ ᴍí: 
-- 👩🏻‍💻ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ᴇꜱᴛᴏʏ ɪɴꜱᴄʀɪᴛᴀ ᴇɴ ᴜɴ ʙᴏᴏᴛᴄᴀᴍᴘ ᴅᴇ ᴅᴇꜱᴀʀʀᴏʟʟᴏ ᴡᴇʙ ᴄᴏɴ ᴀᴡꜱ.
-- 🧠ᴇꜱᴛᴏʏ ᴀᴘʀᴇɴᴅɪᴇɴᴅᴏ ᴀ ᴜꜱᴀʀ ʜᴛᴍʟ5 ʏ ᴄꜱꜱ3.
-- 💡ᴇꜱᴛᴏʏ ᴄᴏɴᴛɪɴᴜᴀᴍᴇɴᴛᴇ ᴘᴇʀꜰᴇᴄᴄɪᴏɴᴀɴᴅᴏ ᴍɪꜱ ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ ᴘᴀʀᴀ ᴀʙᴏʀᴅᴀʀ ʟᴏꜱ ᴅᴇꜱᴀꜰíᴏꜱ ᴅᴇ ᴄᴏᴅɪꜰɪᴄᴀᴄɪóɴ ᴄᴏɴ ᴄʀᴇᴀᴛɪᴠɪᴅᴀᴅ ʏ ᴇꜰɪᴄɪᴇɴᴄɪᴀ.
-- 💪🏼ᴍᴇ ᴄᴏɴꜱɪᴅᴇʀᴏ ᴜɴᴀ ᴘᴇʀꜱᴏɴᴀ ᴄᴏᴍᴘᴇᴛɪᴛɪᴠᴀ (ᴘᴇʀᴏ ᴇɴ ʙᴜᴇɴᴀ ᴏɴᴅᴀ) ʏ ᴍᴜʏ ᴀᴘᴀꜱɪᴏɴᴀᴅᴀ ᴇɴ ʟᴏ ǫᴜᴇ ʜᴀɢᴏ.
-- 🕰️ᴇɴ ᴍɪ ᴛɪᴇᴍᴘᴏ ʟɪʙʀᴇ ᴇꜱᴄᴜᴄʜᴏ ᴍúꜱɪᴄᴀ ᴏ ʟᴇᴏ, ᴛᴀᴍʙɪéɴ ᴍᴇ ɢᴜꜱᴛᴀ ᴇʟ ᴀɴɪᴍᴇ ʏ ʟᴏꜱ ᴠɪᴅᴇᴏᴊᴜᴇɢᴏꜱ.
-- 🌷ᴍᴇ ᴇɴᴄᴀɴᴛᴀ ʟᴏꜱ ᴀɴɪᴍᴀʟᴇꜱ ʏ ʟᴀ ɴᴀᴛᴜʀᴀʟᴇᴢᴀ.
+- 👩🏻‍💻Actualmente estoy inscrita en un BootCamp de desarrollo web con AWS.
+- 🧠Estoy aprendiendo a usar HTML5 y CSS3.
+- 💡Estoy continuamente perfeccionando mis habilidades para abordar los desafíos de codificación con creatividad y eficiencia.
+- 💪🏼Me considero una persona competitiva (pero en buen rollo) y muy apasionada en lo que hago.
+- 🕰️En mi tiempo libre escucho música o leo, también me gusta mucho el anime y los videojuegos.
+- 🌷Me encanta los animales y la naturaleza.
 ---
 ## 🛠️ʟᴇɴɢᴜᴀᴊᴇꜱ ʏ ʜᴇʀʀᴀᴍɪᴇɴᴛᴀꜱ
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='html5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=white&labelColor=F16529&color=F16529'/></a>
