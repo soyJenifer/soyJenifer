@@ -1,6 +1,7 @@
-![minombre](https://github.com/user-attachments/assets/7e853166-ad54-43b7-abba-d1126a563b57)
+![portada](https://github.com/user-attachments/assets/84b1448c-728d-476f-b6af-5f041c9cd0d3)
 
 ---
+
 ## ♡ ꜱᴏʙʀᴇ ᴍí: 
 - 👩🏻‍💻Actualmente estoy inscrita en un BootCamp de desarrollo web con AWS.
 - 🧠Estoy aprendiendo a usar HTML5, CSS3 y JS.
