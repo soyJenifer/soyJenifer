@@ -1,14 +1,27 @@
-![portada](https://github.com/user-attachments/assets/84b1448c-728d-476f-b6af-5f041c9cd0d3)
-
+## Hola👋! Mi nombre es Jenifer y soy desarrolladora, soy de España/Barcelona.
 ---
-
-## ♡ ꜱᴏʙʀᴇ ᴍí: 
+## ♡ ꜱᴏʙʀᴇ ᴍí:
+<div align="right">
+    <img src="https://github.com/user-attachments/assets/3680c044-b520-4278-8aab-08e4dd50822f" align="right" height="210"/>
+</div>
 - 👩🏻‍💻Actualmente estoy inscrita en un BootCamp de desarrollo web con AWS.
-- 🧠Estoy aprendiendo a usar HTML5, CSS3 y JS.
-- 💡Estoy continuamente perfeccionando mis habilidades para abordar los desafíos de codificación con creatividad y eficiencia.
-- 💪🏼Me considero una persona competitiva (pero en buen rollo) y muy apasionada en lo que hago.
-- 🕰️En mi tiempo libre escucho música o leo, también me gusta mucho el anime y los videojuegos.
+<br>
+- 🧠Estoy aprendiendo a usar HTML5, CSS3, JS y PHP.
+<br>
+- 💡Estoy continuamente perfeccionando mis habilidades para abordar los 
+<br>
+desafíos de codificación con creatividad y eficiencia.
+<br>
+- 💪🏼Me considero una persona competitiva (pero en buen rollo) y muyapasionada 
+<br>
+en lo que hago.
+<br>
+- 🕰️En mi tiempo libre escucho música o leo, también me gusta mucho el anime 
+<br>
+y los videojuegos.
+<br>
 - 🌷Me encanta los animales y la naturaleza.
+
 ---
 ## 🛠️ʟᴇɴɢᴜᴀᴊᴇꜱ ʏ ʜᴇʀʀᴀᴍɪᴇɴᴛᴀꜱ
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='html5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=white&labelColor=F16529&color=F16529'/></a>
@@ -19,11 +32,14 @@
 
 ---
 ## 💬ᴄᴏɴᴛáᴄᴛᴀᴛᴇ ᴄᴏɴᴍɪɢᴏ ;)
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/-100000?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836&color=D14836'/></a> <a href="jenifermoyano2006@gmail.com">jenifermoyano2006@gmail.com</a>
+  <a href="jenifermoyano2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
+  </a>
 
 ---
 ## 📊ᴇꜱᴛᴀᴅíꜱᴛɪᴄᴀꜱ
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/81308746-8f6b-40d0-b0c9-114d1d7c0716" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=soyJenifer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=solarized-dark&locale=es&hide_border=true&order=1" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soyJenifer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
 </div>
