@@ -39,7 +39,7 @@ y los videojuegos.
 ---
 ## 📊ᴇꜱᴛᴀᴅíꜱᴛɪᴄᴀꜱ
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/81308746-8f6b-40d0-b0c9-114d1d7c0716" height="150"/>
+  <img src="https://github.com/user-attachments/assets/26fe5f40-c4f7-4dc4-929f-8f59f9cd2280" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=soyJenifer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=solarized-dark&locale=es&hide_border=true&order=1" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soyJenifer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
 </div>
